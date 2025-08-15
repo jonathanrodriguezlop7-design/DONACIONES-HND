@@ -22,6 +22,7 @@
     </style>
 </head>
 <body>
-    <img src="7E0E914D-4D5C-4ED5-B908-FD49DE204B49.jpeg" alt="Imagen en pantalla completa">
+    <img src="git fetch origin
+git checkout 1-donaciones-hnd-imagen" alt="Imagen en pantalla completa">
 </body>
 </html>
